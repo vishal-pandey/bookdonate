@@ -2095,7 +2095,7 @@ nav a:hover {
 }
 
 .banner-area {
-    background: url(../bg.jpg) no-repeat center center/cover
+    background: url(../bg1.jpg) no-repeat center center/cover
 }
 
 @media (max-width: 767px) {
@@ -2522,7 +2522,7 @@ nav a:hover {
 }
 
 .donate-area {
-    background: url(../bg.jpg) no-repeat center center fixed;
+    background: url(../bg1.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -2530,7 +2530,7 @@ nav a:hover {
 }
 
 .donate-area .overlay-bg {
-    opacity: .9;
+    opacity: .8;
     background-color: #000
 }
 
